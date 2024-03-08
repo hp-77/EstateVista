@@ -8,6 +8,9 @@ EstateVista is a real estate application built using the MERN stack, enabling us
 - **Express.js**: As the backend framework, offering robust features for web and mobile applications.
 - **React.js**: For the frontend, creating dynamic and responsive user interfaces.
 - **Node.js**: For the server-side runtime environment, ensuring high performance and scalability.
+- **Socket.io**: For Realtime seamless messages and chating.
+- **React-Quill**: For Robust Text Editor for posting about estate views.
+
 
 ## Features
 
@@ -15,7 +18,7 @@ EstateVista is a real estate application built using the MERN stack, enabling us
 - **Real-time Updates**: Using Socket.io, the application provides real-time updates to users.
 - **User Authentication**: Secure user login and registration.
 - **Property Management**: Users can add, edit, and delete property listings.
-- 
+
 ## Screenshots
 
 ![Home Page](screenshots/homepage.png)
