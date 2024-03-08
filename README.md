@@ -24,7 +24,7 @@ EstateVista is a real estate application built using the MERN stack, enabling us
 ![Home Page](screenshots/homepage.png)
 ![Chat Page](screenshots/chat.png)
 ![Post Page](screenshots/adding_post.png)
-![Estate Page](screenshots/estate_search.png.png)
-![login Page](screenshots/login.png.png)
+![Estate Page](screenshots/estate_search.png)
+![login Page](screenshots/login.png)
 ![Profile Page](screenshots/profile.png)
  
